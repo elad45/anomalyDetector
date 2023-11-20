@@ -1,2 +1,2 @@
 # anomalyDetector
-This project ingests CSV files as inputs, each representing points in space. Leveraging advanced detection algorithms, it meticulously analyzes the data to identify anomalies or miscalculations, elevating precision and ensuring the accurate identification of significant data points.
+This project processes CSV files as inputs, each representing points in space. Utilizing sophisticated detection algorithms, it meticulously analyzes the data to identify anomalies or miscalculations, enhancing precision and ensuring the accurate identification of significant data points. This phase is integral to a flight simulator, providing precise knowledge of the airplane's location
